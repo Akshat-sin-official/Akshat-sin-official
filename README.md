@@ -46,3 +46,5 @@
 ![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat-unt&show_icons=true&theme=dark&hide_border=true)
 
 ![Akshat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Akshat-unt&hide_border=true)
+
+[<img src="https://activity-graph.herokuapp.com/graph?username=Akshat-unt&theme=jolly&hide_borders=true"/>](https://ww.github.com)
