@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences @repo section
 
-- ⚡ Fun fact **I am gentle!**
+- ⚡ Fun fact **am addicted to quora, LOL!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
