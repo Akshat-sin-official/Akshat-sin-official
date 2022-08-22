@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/akshatk99016584" target="blank"><img src="https://img.shields.io/twitter/follow/akshatk99016584?logo=twitter&style=for-the-badge" alt="akshatk99016584" /></a> </p>
 
-- 🔭 I’m currently working on [RealTime_Sudoku_Solver](https://github.com/Akshat-unt/RealTime_Sudoku_Solver)
+- 🔭 I’m currently working on an OnlineBookStore
 
-- 🌱 I’m currently learning **Kiwi**
+- 🌱 I’m currently learning **Pyside2**
 
 - 👯 I’m looking to collaborate on [Webuffer](https://github.com/Akshat-unt/Webuffer)
 
-- 🤝 I’m looking for help with [RealTime_Sudoku_Solver](https://github.com/Akshat-unt/RealTime_Sudoku_Solver)
+- 🤝 I’m looking for help with [Grape](https://github.com/Grape-Solutions/Grape)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-unt?tab=repositories](https://github.com/Akshat-unt?tab=repositories)
 
 - 💬 Ask me about **Python & Web-Development**
 
-- 📫 How to reach me **AkshatUNT@protonmail.com** or **akshat.unt@gmail.com**
+- 📫 How to reach me **akshat.unt@gmail.com**
 
-- 📄 Know about my experiences [https://akshat-unt.github.io/](https://akshat-unt.github.io/)
+- 📄 Know about my experiences @repo section
 
 - ⚡ Fun fact **I am gentle!**
 
