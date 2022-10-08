@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-unt" alt="akshat-unt" /></a> </p>
 
+[![@akshat_anu's Holopin board](https://holopin.io/api/user/board?user=akshat_anu)](https://holopin.io/@akshat_anu)
+
 <p align="left"> <a href="https://twitter.com/akshatk99016584" target="blank"><img src="https://img.shields.io/twitter/follow/akshatk99016584?logo=twitter&style=for-the-badge" alt="akshatk99016584" /></a> </p>
 
 - 🔭 I’m currently working on an OnlineBookStore
