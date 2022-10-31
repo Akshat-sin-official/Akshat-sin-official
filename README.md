@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-unt&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-unt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-unt" alt="akshat-unt" /></a> </p>
 
@@ -17,9 +16,7 @@
 
 - 🤝 I’m looking for help with [Grape](https://github.com/Grape-Solutions/Grape)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Akshat-unt?tab=repositories](https://github.com/Akshat-unt?tab=repositories)
-
-- 💬 Ask me about **Python & Web-Development**
+- 👨‍💻 All of my projects are available [here](https://github.com/Akshat-unt?tab=repositories)
 
 - 📫 How to reach me **akshat.unt@gmail.com**
 
@@ -32,7 +29,7 @@
 <a href="https://codepen.io/akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshatunt" height="30" width="40" /></a>
 <a href="https://dev.to/akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatunt" height="30" width="40" /></a>
 <a href="https://twitter.com/akshatk99016584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatk99016584" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat kumar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshat-kumar-singh-a22885219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat kumar singh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14398589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14398589" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshat-unt" height="30" width="40" /></a>
 <a href="https://hashnode.com/@akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akshat-unt" height="30" width="40" /></a>
