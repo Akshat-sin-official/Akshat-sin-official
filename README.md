@@ -34,7 +34,7 @@
 <a href="https://stackoverflow.com/users/14398589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14398589" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshat-unt" height="30" width="40" /></a>
 <a href="https://hashnode.com/@akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akshat-unt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCKl_g1qhoDnbxYI-V6sFwPw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshat kumar singh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshat kumar singh" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/KrxVJMD4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KrxVJMD4" height="30" width="40" /></a>
 </p>
 
