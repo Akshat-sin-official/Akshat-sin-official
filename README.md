@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+![](https://komarev.com/ghpvc/?username=Akshat-unt&style=flat-square)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-unt" alt="akshat-unt" /></a> </p>
 
