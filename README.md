@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Akshat-unt?tab=repositories)
 
-- 📫 How to reach me **akshat.unt@gmail.com**
+- 📫 How to reach me **AkshatUNT@protonmail.com**
 
 - 📄 Know about my experiences @repo section
 
