@@ -91,6 +91,16 @@ CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading 
 **Email:** akshat.sin.official@gmail.com  
 **LinkedIn:** [sin-akshat](https://www.linkedin.com/in/sin-akshat/)
 
+<div align="center">
+
+<br/>
+
+<a href="https://buymeacoffee.com/akshat_sin" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+</div>
+
 ---
 
 <div align="center">
