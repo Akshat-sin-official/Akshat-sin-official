@@ -1,50 +1,199 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=Akshat-unt&style=flat-square)
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=180&section=header&text=Akshat%20Kumar%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-unt" alt="akshat-unt" /></a> </p>
+<h2>Chief Technology Officer | Full Stack Developer</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Enterprise+SaaS+%26+ERP+Solutions;B.Tech+CSE+(AI%2FML)+Student+%7C+2nd+Year;2000%2B+Open+Source+Contributions" alt="Typing Animation"/>
+
+<br/><br/>
+
+<!-- Contact -->
+<a href="https://www.linkedin.com/in/sin-akshat/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:akshat.sin.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Akshat-sin-official">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## Professional Summary
+
+**Chief Technology Officer** and Full Stack Developer currently pursuing B.Tech in Computer Science & Engineering (AI/ML), 2nd Year. Leading technology initiatives at two companies while maintaining strong academic performance. Proven track record in enterprise software development, cloud architecture, and technical leadership.
+
+**Core Expertise:**
+- Enterprise Architecture & System Design
+- HRMS & ERP System Development
+- Cloud Architecture & CI/CD Pipeline Management
+- Technical Leadership & Client Management
+- Full-Stack Development (PHP, MERN, Python/Django)
+- AI/ML Integration & Computer Vision
+
+---
+
+## Education
+
+**B.Tech in Computer Science & Engineering (AI/ML)**  
+Currently in 2nd Year | Expected Graduation: 2027
+
+**Key Achievements:**
+- Smart India Hackathon 2024-25: Qualified for National Level (2 consecutive years)
+- Active open-source contributor: 2000+ contributions across 50+ repositories
+- 5 consecutive years of Hacktoberfest completion (2020-2024)
+
+---
+
+## Professional Experience
+
+### Chief Technology Officer
+**Lendwise Advisory Pvt Ltd** | Present
+
+Leading technology strategy and product development for NBFC startup:
+- Developing core financial technology platform from ground up
+- Architecting scalable systems for lending and advisory services
+- Building secure, compliant solutions for financial operations
+- Managing product roadmap and technical decision-making
+
+### Chief Technology Officer
+**SGCA Technologies Pvt Ltd** | Dec 2024 - Nov 2025
+
+Led technology operations and client delivery for enterprise solutions:
+- Managed technology strategy and client deal negotiations
+- Developed comprehensive HRMS and ERP systems for multiple clients
+- Built dynamic websites and web applications
+- Architected and managed cloud infrastructure (AWS/Azure)
+- Implemented CI/CD pipelines for automated deployment
+- Led cross-functional teams and established development workflows
+
+**Key Deliverables:**
+- Enterprise HRMS with employee management, payroll, and attendance tracking
+- Custom ERP solutions with inventory, accounting, and CRM modules
+- Cloud infrastructure setup with auto-scaling and monitoring
+- CI/CD automation reducing deployment time by 70%
+
+---
+
+## Technical Skills
+
+**Backend:** PHP • Python • Django • Node.js • Express.js
+
+**Frontend:** React • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS
+
+**Databases:** MySQL • MongoDB • PostgreSQL • Redis
+
+**Cloud & DevOps:** AWS • Azure • Docker • CI/CD • Linux Server Management
+
+**AI/ML:** TensorFlow • PyTorch • OpenCV • Scikit-learn • Pandas • NumPy
+
+**Tools:** Git • GitHub Actions • Figma • Framer • VS Code • Postman
+
+**Currently Learning:** Unreal Engine 5 • Advanced Deep Learning • OSINT Tools
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat-sin-official&theme=tokyonight" />
+
+</div>
+
+---
+
+## Achievements & Recognition
+
+**Hackathons:**
+- Smart India Hackathon 2025: Qualified for National Level
+- Smart India Hackathon 2024: Qualified for National Level
+- Hack on Hills 7.0 (2025)
+- Major League Hacking (MLH) Events
+- Google Developer Community Events
+
+**Open Source:**
+- 2000+ contributions across 30+ public repositories
+- 5 consecutive years of Hacktoberfest completion (2020-2024)
+- Active community contributor and project maintainer
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Hacktoberfest%202024-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hacktoberfest%202023-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hacktoberfest%202022-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hacktoberfest%202021-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hacktoberfest%202020-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
+
+<br/><br/>
 
 [![@akshat_anu's Holopin board](https://holopin.me/akshat_anu)](https://holopin.io/@akshat_anu)
 
-<p align="left"> <a href="https://twitter.com/akshatk99016584" target="blank"><img src="https://img.shields.io/twitter/follow/akshatk99016584?logo=twitter&style=for-the-badge" alt="akshatk99016584" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on an OnlineBookStore
+---
 
-- 🌱 I’m currently learning **Pyside2**
+## Projects & Expertise
 
-- 👯 I’m looking to collaborate on [Webuffer](https://github.com/Akshat-unt/Webuffer)
+**Enterprise Solutions:**
+- HRMS (Human Resource Management System) with payroll, attendance, and performance tracking
+- ERP Systems with inventory management, accounting, and CRM integration
+- Dynamic websites and web applications for various industries
+- Financial technology platform for NBFC operations
 
-- 🤝 I’m looking for help with [Grape](https://github.com/Grape-Solutions/Grape)
+**Cloud & Infrastructure:**
+- AWS/Azure cloud architecture design and implementation
+- CI/CD pipeline setup with automated testing and deployment
+- Server management, monitoring, and optimization
+- Database administration and performance tuning
 
-- 👨‍💻 All of my projects are available [here](https://github.com/Akshat-unt?tab=repositories)
+**AI/ML Applications:**
+- Computer Vision solutions using TensorFlow and OpenCV
+- Machine Learning models for business intelligence
+- Data analysis and predictive analytics
 
-- 📫 How to reach me **AkshatUNT@protonmail.com**
+---
 
-- 📄 Know about my experiences @repo section
+## Current Focus
 
-- ⚡ Fun fact **am addicted to quora, LOL!**
+**Academic:** B.Tech CSE (AI/ML) - 2nd Year
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshatunt" height="30" width="40" /></a>
-<a href="https://dev.to/akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatunt" height="30" width="40" /></a>
-<a href="https://twitter.com/akshatk99016584" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatk99016584" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akshat-kumar-singh-a22885219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat kumar singh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14398589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14398589" height="30" width="40" /></a>
-<a href="https://codesandbox.com/akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akshat-unt" height="30" width="40" /></a>
-<a href="https://hashnode.com/@akshat-unt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akshat-unt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@akshatunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshat kumar singh" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/KrxVJMD4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/KrxVJMD4" height="30" width="40" /></a>
-</p>
+**Professional:**
+- Leading technology at Lendwise Advisory (NBFC Startup)
+- Building scalable financial technology solutions
+- Exploring advanced AI/ML applications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Learning:**
+- Game Development with Unreal Engine 5
+- Advanced Deep Learning & Neural Networks
+- OSINT & Cybersecurity Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-unt&show_icons=true&locale=en&layout=compact" alt="akshat-unt" /></p>
+**Open to Collaboration:**
+- Enterprise SaaS Products
+- ERP & HRMS Solutions
+- FinTech Innovations
+- AI/ML Projects
 
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshat-unt&show_icons=true&theme=dark&hide_border=true)
+---
 
-![Akshat's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Akshat-unt&hide_border=true)
+## Contact
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=Akshat-unt&theme=jolly&hide_borders=true"/>](https://ww.github.com)
+**Email:** akshat.sin.official@gmail.com
+
+**Connect:**
+[LinkedIn](https://www.linkedin.com/in/sin-akshat/) • 
+[Instagram](https://www.instagram.com/a.fr.akshat/) • 
+[Twitter](https://twitter.com/akshatk99016584)
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer"/>
+
+</div>
