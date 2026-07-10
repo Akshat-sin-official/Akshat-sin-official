@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=header&text=Akshat%20Kumar%20Singh&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-### Chief Technology Officer | Full Stack Developer
+### Head of Technology | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI%2FML)+%7C+2nd+Year;Building+Enterprise+SaaS+%26+ERP+Solutions;2000%2B+Open+Source+Contributions" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Head+of+Technology+at+MarTechAdda;Building+AI-Driven+Solutions" alt="Typing"/>
 
 <br/>
 
@@ -18,11 +18,10 @@
 
 ## About
 
-CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading technology at two companies while maintaining strong academic performance. Specialized in enterprise software, cloud architecture, and AI/ML integration.
+Full Stack Developer and Head of Technology pursuing **B.Tech CSE, 3rd Year**. Passionate about orchestrating AI to accelerate development cycles and prototyping interfaces using Figma and Stitch. Experienced in FinTech architectures, enterprise software, and custom bot development.
 
 **Currently:**
-- CTO at **Lendwise Advisory** (NBFC Startup) - Building financial technology platform
-- CTO at **SGCA Technologies** (Dec 2024 - Nov 2025) - HRMS, ERP, Cloud & CI/CD
+- Head of Technology at **MarTechAdda**
 
 **Achievements:**
 - Smart India Hackathon: National Level Qualifier (2024, 2025)
@@ -33,14 +32,22 @@ CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading 
 
 ## Experience
 
-**Chief Technology Officer** | Lendwise Advisory Pvt Ltd | Present
-- Developing core FinTech platform for NBFC operations
-- Architecting scalable, secure financial solutions
+**Head of Technology** | MarTechAdda | Present
+- Directing technological strategy and platform engineering
+
+**Freelance Developer & AI Integrator** | 2020 - Present
+- Served 5 clients building CRM systems, E-commerce platforms, and API integrations
+- Built **Nakshtra Ventures FD & Bond Booking** investment platform, integrating APIs from multiple NBFCs
+- Designed and built custom Discord bots, including **Kitten** (ChatGPT-like AI bot) and **Tick** (moderation bot)
+- Leveraged AI orchestration (Cursor, Antigravity, Kiro, TRAE) and Stitch/Figma to rapidly design, prototype, and build MVP ready-to-work UIs
+
+**Chief Technology Officer** | Lendwise Advisory Pvt Ltd | Past
+- Architected core FinTech & NBFC loan booking platforms
+- Integrated scalable financial technology solutions
 
 **Chief Technology Officer** | SGCA Technologies Pvt Ltd | Dec 2024 - Nov 2025
 - Developed HRMS & ERP systems for enterprise clients
 - Managed cloud architecture (AWS/Azure) and CI/CD pipelines
-- Led client deals and technical strategy
 
 ---
 
@@ -53,6 +60,10 @@ CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading 
 **Databases:** MySQL • MongoDB • PostgreSQL • Redis
 
 **Cloud & DevOps:** AWS • Azure • Docker • CI/CD • Linux
+
+**AI Orchestration & Tools:** Cursor • Antigravity • Kiro • TRAE • Stitch
+
+**Design:** Figma
 
 **AI/ML:** TensorFlow • PyTorch • OpenCV • Scikit-learn
 
@@ -72,6 +83,7 @@ CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading 
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Hack%20on%20Hills%207.0-Completed-FF6B6B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hacktoberfest%202024-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hacktoberfest%202023-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hacktoberfest%202022-Completed-FF6B6B?style=flat-square&logo=hacktoberfest&logoColor=white"/>
@@ -108,3 +120,5 @@ CTO and Full Stack Developer pursuing **B.Tech CSE (AI/ML), 2nd Year**. Leading 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=80&section=footer"/>
 
 </div>
+
+
