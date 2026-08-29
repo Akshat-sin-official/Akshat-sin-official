@@ -4,7 +4,7 @@
 
 ### Head of Technology | Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Head+of+Technology+at+MarTechAdda;Building+AI-Driven+Solutions" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Building+AI-Driven+Solutions" alt="Typing"/>
 
 <br/>
 
